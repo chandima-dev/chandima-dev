@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20230692&label=Profile%20views&color=0e75b6&style=flat" alt="it20230692" /> </p>
 
 
-- 🔭 I’m currently working on **Blog-App**
+- 🔭 I’m currently working on **HerbulGuru webapp**
 
 - 🔭 I’m currently working on **Todo-list-MERN**
 
