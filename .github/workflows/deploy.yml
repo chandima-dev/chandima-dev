@@ -1,10 +1,10 @@
 name: Build and Deploy
 env:
   CI: false
-  GITHUB_USERNAME: ${{ github.repository_owner }}
-  REACT_APP_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This is automatically set by Github Actions
+  GITHUB_USERNAME: IT20230692 
+  REACT_APP_GITHUB_TOKEN: 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 # This is automatically set by Github Actions
   USE_GITHUB_DATA: "true"
-  MEDIUM_USERNAME: "saadpasta" # Change this to your medium username
+  # MEDIUM_USERNAME: "saadpasta" # Change this to your medium username
 on:
   push:
     branches:
@@ -30,3 +30,4 @@ jobs:
           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }} # This is provided by GitHub.
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: build # The folder the action should deploy.
+
