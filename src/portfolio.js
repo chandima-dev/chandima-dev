@@ -23,10 +23,10 @@ const greeting = {
   username: "Chandima Sooriyaarachchi",
   title: "Hi all, I'm Chandima Sooriyaarachchi",
   subTitle: emoji(
-    "Computer Sceince Undergraduate 🚀 with Strong professional engineering background specialized in JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Computer Science Undergraduate 🚀 with Strong professional engineering background specialized in JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
     ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1cL9USHtZyx4a6ZhqMAVdNT-AyBPYyD7U/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -48,16 +48,10 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "What I have experienced",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+   
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -248,26 +242,148 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/kolamasrilanka.PNG"),
+      projectName: "Kolama Web-App",
+      projectDesc: "This is created for targetting tourism in Sri Lanka and they can easily find their want places for events and they can buy traditional items through this app",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://kolamasrilanka.netlify.app/"
+        },{
+          name: "Reactjs",
+          url: "http://nextu.se/"
         }
-        //  you can add extra buttons here.
+        ,{
+          name: "Nodejs",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "MongoDB",
+          url: "http://nextu.se/"
+        },{
+          name: "Mongoose",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "CSS",
+          url: "http://nextu.se/"
+        },{
+          name: "JWT",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "Metireal UI ",
+          url: "http://nextu.se/"
+        },
+        {
+          name: "Context API ",
+          url: "http://nextu.se/"
+        },{
+          name: "Stripe payment gate",
+          url: "http://nextu.se/"
+        },
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/blogapp.PNG"),
+      projectName: "Blog App",
+      projectDesc: "Discuss the react node and comparing with each other frameworks.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://blog-app-chandima99.netlify.app/"
+        },{
+          name: "Reactjs",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "Nodejs",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "MongoDB",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "CSS",
+          url: "http://nextu.se/"
+        },{
+          name: "MongoDB",
+          url: "http://nextu.se/"
+        },{
+          name: "Mongoose",
+          url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/chatapp.PNG"),
+      projectName: "Chat-App",
+      projectDesc: "This is a real-time chat application.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://chandima-chat-app.netlify.app/"
+        },{
+          name: "Reactjs",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "Nodejs",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "Socket",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "CSS",
+          url: "http://nextu.se/"
+        },{
+          name: "JWT",
+          url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/herbalguru.PNG"),
+      projectName: "Herbalguru",
+      projectDesc: "This web application is created for targeting sell medicines and herbal items there are two rolls sellers and customers on this application ",
       footerLink: [
         {
           name: "Visit Website",
           url: "http://nextu.se/"
+        },{
+          name: "Reactjs",
+          url: "http://nextu.se/"
         }
+        ,{
+          name: "Nodejs",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "MongoDB",
+          url: "http://nextu.se/"
+        },{
+          name: "Mongoose",
+          url: "http://nextu.se/"
+        },{
+          name: "Metireal UI",
+          url: "http://nextu.se/"
+        },{
+          name: "Redux",
+          url: "http://nextu.se/"
+        }
+        ,{
+          name: "SCSS",
+          url: "http://nextu.se/"
+        },{
+          name: "JWT",
+          url: "http://nextu.se/"
+        },{
+          name: "Stripe payment gate",
+          url: "http://nextu.se/"
+        },
       ]
     }
   ],
@@ -284,51 +400,39 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Microsoft Certified: Azure Fundamentals",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "AZ- 900 Azure Fundamentals",
+      image: require("./assets/images/az-900.PNG"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://www.credly.com/badges/78140f46-a068-4bd0-b10a-2b020831d477?source=linked_in_profile"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Higher Diploma IN Information Technology",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "Issues from SLIIT for completed my Diploma in Information Technology.",
+      image: require("./assets/images/sliitchandimaceti.jpeg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
+        // {
+        //   name: "View Google Assistant Action",
+        //   url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        // }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Web App Developer",
+      subtitle: "Complete Web Developer Bootcamp By Dr Angela Yu from udemy",
+      image: require("./assets/images/udemy anjela.PNG"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        
       ]
     }
   ],
@@ -396,15 +500,15 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
     
-  number: "+94705901816",
-  email_address: "sanjusooriyaarachchi0@gmail.com"
+  number: "+94 705901816",
+  email_address: "sanjusooriyaarachchi@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "SanjuChandima", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
