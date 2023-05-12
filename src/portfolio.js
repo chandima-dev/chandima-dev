@@ -251,36 +251,36 @@ const bigProjects = {
           url: "https://kolamasrilanka.netlify.app/"
         },{
           name: "Reactjs",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         }
         ,{
           name: "Nodejs",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         }
         ,{
           name: "MongoDB",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         },{
           name: "Mongoose",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         }
         ,{
           name: "CSS",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         },{
           name: "JWT",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         }
         ,{
           name: "Metireal UI ",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         },
         {
           name: "Context API ",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         },{
           name: "Stripe payment gate",
-          url: "http://nextu.se/"
+          url: "https://kolamasrilanka.netlify.app/"
         },
       ]
     },
@@ -294,25 +294,25 @@ const bigProjects = {
           url: "https://blog-app-chandima99.netlify.app/"
         },{
           name: "Reactjs",
-          url: "http://nextu.se/"
+          url: "https://blog-app-chandima99.netlify.app/"
         }
         ,{
           name: "Nodejs",
-          url: "http://nextu.se/"
+          url: "https://blog-app-chandima99.netlify.app/"
         }
         ,{
           name: "MongoDB",
-          url: "http://nextu.se/"
+          url: "https://blog-app-chandima99.netlify.app/"
         }
         ,{
           name: "CSS",
-          url: "http://nextu.se/"
+          url: "https://blog-app-chandima99.netlify.app/"
         },{
           name: "MongoDB",
-          url: "http://nextu.se/"
+          url: "https://blog-app-chandima99.netlify.app/"
         },{
           name: "Mongoose",
-          url: "http://nextu.se/"
+          url: "https://blog-app-chandima99.netlify.app/"
         }
       ]
     },
@@ -326,22 +326,22 @@ const bigProjects = {
           url: "https://chandima-chat-app.netlify.app/"
         },{
           name: "Reactjs",
-          url: "http://nextu.se/"
+          url: "https://chandima-chat-app.netlify.app/"
         }
         ,{
           name: "Nodejs",
-          url: "http://nextu.se/"
+          url: "https://chandima-chat-app.netlify.app/"
         }
         ,{
           name: "Socket",
-          url: "http://nextu.se/"
+          url: "https://chandima-chat-app.netlify.app/"
         }
         ,{
           name: "CSS",
-          url: "http://nextu.se/"
+          url: "https://chandima-chat-app.netlify.app/"
         },{
           name: "JWT",
-          url: "http://nextu.se/"
+          url: "https://chandima-chat-app.netlify.app/"
         }
       ]
     },
@@ -352,37 +352,37 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },{
           name: "Reactjs",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         }
         ,{
           name: "Nodejs",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         }
         ,{
           name: "MongoDB",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },{
           name: "Mongoose",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },{
           name: "Metireal UI",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },{
           name: "Redux",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         }
         ,{
           name: "SCSS",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },{
           name: "JWT",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },{
           name: "Stripe payment gate",
-          url: "http://nextu.se/"
+          url: "https://herbalguru.netlify.app/"
         },
       ]
     }
