@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **HerbulGuru webapp**
 
-- 🔭 I’m currently working on **Todo-list-MERN**
+- 🔭 I’m currently working on **NextJS-WebApp**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Java , Laravel framework , MERN ,PHP**
+- 💬 Ask me about **Java, Laravel framework, MERN , PHP**
 
 - 📫 How to reach me **sanjusooriyaarachchi@gmail.com**
 
