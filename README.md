@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandima-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chandima-dev" /> </p>
 
 
-- 🔭 I’m currently working on **HerbulGuru webapp**
+- 🔭 I’m currently working on **HerbulGuru WebApp and Next.js WebApp**
 
-- 🔭 I’m currently working on **NextJS-WebApp**
+- 🔭 I’m currently working on **Datadog SaaS Application script development in App-Builder, API integration, and cloud platform integration.**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Cloud Platforms and Infrastructure**
 
-- 💬 Ask me about **Java, Laravel framework, MERN , PHP**
+- 💬 Ask me about **Java, Python, Laravel framework, MERN , PHP**
 
 - 📫 How to reach me **sanjusooriyaarachchi@gmail.com**
 
